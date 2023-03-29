@@ -6,7 +6,7 @@
   <li>Curso de Bootstrap 5 - prof. Ricardo Maroquio - Youtube</li>
 </ul>
 <h3>O desenvolvimento do exercícios...</h3>
-<p>https://sidneisantos1971.github.io/javascript-puro/condicoes/idade_voto.html</p>
+<p>https://sidneisantos1971.github.io/javascript-puro/</p>
 
 <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
