@@ -1,4 +1,10 @@
 <h1>Desenvolvedor Front-end</h1>
+<ul>
+  <li>Desenvolvimento Front-end pelo Senai de Taguatinga</li>
+  <li>Curso em Vídeo - prof. Guanabara - Youtube</li>
+  <li>Livro Use a Cabeça - Javascript</li>
+  <li>Curso de Bootstrap 5 - prof. Ricardo Maroquio - Youtube</li>
+</ul>
 
 <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
